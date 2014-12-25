@@ -1,20 +1,20 @@
-What happens when you initialize a repository? Why do you need to do it?
+	What happens when you initialize a repository? Why do you need to do it?
 I start new project and prepare it for versioning. It helps track changes.
 
-How is the staging area different from the working directory and the repository? What value do you think it offers?
+	How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area is making start and working is where i make changes. Repo is already added change version save place. It gives place for ready product, change of product and preperation of product.
 
-How can you use the staging area to make sure you have one commit per logical change?
+	How can you use the staging area to make sure you have one commit per logical change?
 I put files witch are ready and done.
 
-What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When i want to make new feature not intented in main programm. Then i can use my own version.
 
-How do the diagrams help you visualize the branch structure?
+	How do the diagrams help you visualize the branch structure?
 I understand how programms evolved.
 
-What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 I can work on different ideas then fix them in 1 best version. Representing in diagramm commits makes you see how many changes are added and witch way they are following.
 
-What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 Automatically different ideas can be merged with saving time into 1 version. Manually you can fix in case automatic isnt possible.
