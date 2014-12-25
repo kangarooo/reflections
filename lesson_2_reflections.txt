@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+I start new project and prepare it for versioning. It helps track changes.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is making start and working is where i make changes. Repo is already added change version save place. It gives place for ready product, change of product and preperation of product.
