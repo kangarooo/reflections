@@ -14,4 +14,7 @@ How do the diagrams help you visualize the branch structure?
 I understand how programms evolved.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
-I can work on different ideas then fix them in 1 best version. Representing commits makes you see how many changes are added and witch way they are following.
+I can work on different ideas then fix them in 1 best version. Representing in diagramm commits makes you see how many changes are added and witch way they are following.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatically different ideas can be merged with saving time into 1 version. Manually you can fix in case automatic isnt possible.
