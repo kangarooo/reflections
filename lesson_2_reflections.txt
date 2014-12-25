@@ -7,3 +7,6 @@ Staging area is making start and working is where i make changes. Repo is alread
 How can you use the staging area to make sure you have one commit per logical change?
 I put files witch are ready and done.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When i want to make new feature not intented in main programm. Then i can use my own version.
+
