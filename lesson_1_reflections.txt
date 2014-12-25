@@ -1,21 +1,28 @@
-	How did viewing a diff between two versions of a file help you see the bug that was introduced?
-It showed what is changed- lost and added and only thouse lines i need to read to understand bug in code.
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
 
-	How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
-I can allways find old bugs and how programm was developed. What was when added and how important each part was from start.
+	It showed what is changed- lost and added and only thouse lines i need to read to understand bug in code.
 
-	What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
-I can put commit when needed and when commit is ready and not when its in middle and lost.
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 
-	Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
-Thats a system for whole programm to work with all option in one place having all related files together.
+	I can allways find old bugs and how programm was developed. What was when added and how important each part was from start.
 
-	How can you use the commands git log and git diff to view the history of files?
-With log i see change descriptions and with diff comparison differences from 2 changes.
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
 
-	How might using version control make you more confident to make changes that could break something?
-Couse i can revert and find possible problem changes.
+	I can put commit when needed and when commit is ready and not when its in middle and lost.
 
-	Now that you have your workspace set up, what do you want to try using Git for?
-I want to make worpress plugin changes.
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+	Thats a system for whole programm to work with all option in one place having all related files together.
+
+How can you use the commands git log and git diff to view the history of files?
+
+	With log i see change descriptions and with diff comparison differences from 2 changes.
+
+How might using version control make you more confident to make changes that could break something?
+
+	Couse i can revert and find possible problem changes.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	I want to make worpress plugin changes.
 
