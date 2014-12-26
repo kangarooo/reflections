@@ -1,4 +1,4 @@
-.How did viewing a diff between two versions of a file help you see the bug that was introduced?
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
 
 	It showed what is changed- lost and added and only thouse lines i need to read to understand bug in code.
 
@@ -25,4 +25,3 @@ How might using version control make you more confident to make changes that cou
 Now that you have your workspace set up, what do you want to try using Git for?
 
 	I want to make worpress plugin changes.
-
