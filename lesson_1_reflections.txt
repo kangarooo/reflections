@@ -1,4 +1,4 @@
-How did viewing a diff between two versions of a file help you see the bug that was introduced?
+.How did viewing a diff between two versions of a file help you see the bug that was introduced?
 
 	It showed what is changed- lost and added and only thouse lines i need to read to understand bug in code.
 
